@@ -1,0 +1,239 @@
+{
+	"0": {
+		"vk_code": 48,
+		"key_sym": 48
+	},
+	"1": {
+		"vk_code": 49,
+		"key_sym": 49
+	},
+	"2": {
+		"vk_code": 50,
+		"key_sym": 50
+	},
+	"3": {
+		"vk_code": 51,
+		"key_sym": 51
+	},
+	"4": {
+		"vk_code": 52,
+		"key_sym": 52
+	},
+	"5": {
+		"vk_code": 53,
+		"key_sym": 53
+	},
+	"6": {
+		"vk_code": 54,
+		"key_sym": 54
+	},
+	"7": {
+		"vk_code": 55,
+		"key_sym": 55
+	},
+	"8": {
+		"vk_code": 56,
+		"key_sym": 56
+	},
+	"9": {
+		"vk_code": 57,
+		"key_sym": 57
+	},
+	"a": {
+		"vk_code": 65,
+		"key_sym": 97
+	},
+	"b": {
+		"vk_code": 66,
+		"key_sym": 98
+	},
+	"c": {
+		"vk_code": 67,
+		"key_sym": 99
+	},
+	"d": {
+		"vk_code": 68,
+		"key_sym": 100
+	},
+	"e": {
+		"vk_code": 69,
+		"key_sym": 101
+	},
+	"f": {
+		"vk_code": 70,
+		"key_sym": 102
+	},
+	"g": {
+		"vk_code": 71,
+		"key_sym": 103
+	},
+	"h": {
+		"vk_code": 72,
+		"key_sym": 104
+	},
+	"i": {
+		"vk_code": 73,
+		"key_sym": 105
+	},
+	"j": {
+		"vk_code": 74,
+		"key_sym": 106
+	},
+	"k": {
+		"vk_code": 75,
+		"key_sym": 107
+	},
+	"l": {
+		"vk_code": 76,
+		"key_sym": 108
+	},
+	"m": {
+		"vk_code": 77,
+		"key_sym": 109
+	},
+	"n": {
+		"vk_code": 78,
+		"key_sym": 110
+	},
+	"o": {
+		"vk_code": 79,
+		"key_sym": 111
+	},
+	"p": {
+		"vk_code": 80,
+		"key_sym": 112
+	},
+	"q": {
+		"vk_code": 81,
+		"key_sym": 113
+	},
+	"r": {
+		"vk_code": 82,
+		"key_sym": 114
+	},
+	"s": {
+		"vk_code": 83,
+		"key_sym": 115
+	},
+	"t": {
+		"vk_code": 84,
+		"key_sym": 116
+	},
+	"u": {
+		"vk_code": 85,
+		"key_sym": 117
+	},
+	"v": {
+		"vk_code": 86,
+		"key_sym": 118
+	},
+	"w": {
+		"vk_code": 87,
+		"key_sym": 119
+	},
+	"x": {
+		"vk_code": 88,
+		"key_sym": 120
+	},
+	"y": {
+		"vk_code": 89,
+		"key_sym": 121
+	},
+	"z": {
+		"vk_code": 90,
+		"key_sym": 122
+	},
+	"F1": {
+		"vk_code": 112,
+		"key_sym": 65470
+	},
+	"F2": {
+		"vk_code": 113,
+		"key_sym": 65471
+	},
+	"F3": {
+		"vk_code": 114,
+		"key_sym": 65472
+	},
+	"F4": {
+		"vk_code": 115,
+		"key_sym": 65473
+	},
+	"F5": {
+		"vk_code": 116,
+		"key_sym": 65474
+	},
+	"F6": {
+		"vk_code": 117,
+		"key_sym": 65475
+	},
+	"F7": {
+		"vk_code": 118,
+		"key_sym": 65476
+	},
+	"F8": {
+		"vk_code": 119,
+		"key_sym": 65477
+	},
+	"F9": {
+		"vk_code": 120,
+		"key_sym": 65478
+	},
+	"F10": {
+		"vk_code": 121,
+		"key_sym": 65479
+	},
+
+	"shift": {
+		"vk_code": 16,
+		"key_sym": 65505
+	},
+	"ctrl": {
+		"vk_code": 17,
+		"key_sym": 65507
+	},
+	"alt": {
+		"vk_code": 18,
+		"key_sym": 65513
+	},
+	"tab": {
+		"vk_code": 9,
+		"key_sym": 65417
+	},
+	"space": {
+		"vk_code": 32,
+		"key_sym": 65408
+	},
+	"enter": {
+		"vk_code": 13,
+		"key_sym": 65421
+	},
+	"back": {
+		"vk_code": 8,
+		"key_sym": 65288
+	},
+	"esc": {
+		"vk_code": 27,
+		"key_sym": 65307
+	},
+	"win": {
+		"vk_code": 91,
+		"key_sym": 65371
+	},
+	"up": {
+		"vk_code": 38,
+		"key_sym": 65362
+	},
+	"down": {
+		"vk_code": 40,
+		"key_sym": 65364
+	},
+	"left": {
+		"vk_code": 37,
+		"key_sym": 65361
+	},
+	"right": {
+		"vk_code": 39,
+		"key_sym": 65363
+	}
+}
