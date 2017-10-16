@@ -1,5 +1,7 @@
 # Keyboard & Mouse Simulation
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/peitaosu/Keyboard-Mouse-Simulation/master/LICENSE)
+
 This module wrapper keyboard and mouse events and send to system to have same behavior with physical keyboard and mouse.
 
 You can use it in your automation scripts, or as easy-to-use API when you want to send keyboard and mouse events to different desktop environment (Windows & X11) in same way.
