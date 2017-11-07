@@ -8,6 +8,10 @@ if system == "Windows":
 elif system == "Linux":
     import keyboard_simulation_linux as key
     code_type = "key_sym"
+elif system == "Darwin":
+    import keyboard_simulation_mac as key
+    code_type = "key_code"
+
 
 file_dir = os.path.dirname(inspect.getfile(inspect.currentframe()))
 file_name = 'key_mapping.json'
@@ -55,3 +59,6 @@ def test():
         ReleaseKey("alt")
         ReleaseKey("ctrl")
         TypeKey("ctrl+alt+t")
+    elif system == "Darwin":
+        # abcdefg
+        TypeKey("a+b+c+d+e+f+g")

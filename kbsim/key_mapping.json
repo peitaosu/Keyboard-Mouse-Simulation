@@ -1,147 +1,183 @@
 {
 	"0": {
 		"vk_code": 48,
-		"key_sym": 48
+		"key_sym": 48,
+		"key_code": 29
 	},
 	"1": {
 		"vk_code": 49,
-		"key_sym": 49
+		"key_sym": 49,
+		"key_code": 18
 	},
 	"2": {
 		"vk_code": 50,
-		"key_sym": 50
+		"key_sym": 50,
+		"key_code": 19
 	},
 	"3": {
 		"vk_code": 51,
-		"key_sym": 51
+		"key_sym": 51,
+		"key_code": 20
 	},
 	"4": {
 		"vk_code": 52,
-		"key_sym": 52
+		"key_sym": 52,
+		"key_code": 21
 	},
 	"5": {
 		"vk_code": 53,
-		"key_sym": 53
+		"key_sym": 53,
+		"key_code": 23
 	},
 	"6": {
 		"vk_code": 54,
-		"key_sym": 54
+		"key_sym": 54,
+		"key_code": 22
 	},
 	"7": {
 		"vk_code": 55,
-		"key_sym": 55
+		"key_sym": 55,
+		"key_code": 26
 	},
 	"8": {
 		"vk_code": 56,
-		"key_sym": 56
+		"key_sym": 56,
+		"key_code": 28
 	},
 	"9": {
 		"vk_code": 57,
-		"key_sym": 57
+		"key_sym": 57,
+		"key_code": 25
 	},
 	"a": {
 		"vk_code": 65,
-		"key_sym": 97
+		"key_sym": 97,
+		"key_code": 0
 	},
 	"b": {
 		"vk_code": 66,
-		"key_sym": 98
+		"key_sym": 98,
+		"key_code": 11
 	},
 	"c": {
 		"vk_code": 67,
-		"key_sym": 99
+		"key_sym": 99,
+		"key_code": 8
 	},
 	"d": {
 		"vk_code": 68,
-		"key_sym": 100
+		"key_sym": 100,
+		"key_code": 2
 	},
 	"e": {
 		"vk_code": 69,
-		"key_sym": 101
+		"key_sym": 101,
+		"key_code": 14
 	},
 	"f": {
 		"vk_code": 70,
-		"key_sym": 102
+		"key_sym": 102,
+		"key_code": 3
 	},
 	"g": {
 		"vk_code": 71,
-		"key_sym": 103
+		"key_sym": 103,
+		"key_code": 5
 	},
 	"h": {
 		"vk_code": 72,
-		"key_sym": 104
+		"key_sym": 104,
+		"key_code": 4
 	},
 	"i": {
 		"vk_code": 73,
-		"key_sym": 105
+		"key_sym": 105,
+		"key_code": 34
 	},
 	"j": {
 		"vk_code": 74,
-		"key_sym": 106
+		"key_sym": 106,
+		"key_code": 38
 	},
 	"k": {
 		"vk_code": 75,
-		"key_sym": 107
+		"key_sym": 107,
+		"key_code": 40
 	},
 	"l": {
 		"vk_code": 76,
-		"key_sym": 108
+		"key_sym": 108,
+		"key_code": 37
 	},
 	"m": {
 		"vk_code": 77,
-		"key_sym": 109
+		"key_sym": 109,
+		"key_code": 46
 	},
 	"n": {
 		"vk_code": 78,
-		"key_sym": 110
+		"key_sym": 110,
+		"key_code": 45
 	},
 	"o": {
 		"vk_code": 79,
-		"key_sym": 111
+		"key_sym": 111,
+		"key_code": 31
 	},
 	"p": {
 		"vk_code": 80,
-		"key_sym": 112
+		"key_sym": 112,
+		"key_code": 35
 	},
 	"q": {
 		"vk_code": 81,
-		"key_sym": 113
+		"key_sym": 113,
+		"key_code": 12
 	},
 	"r": {
 		"vk_code": 82,
-		"key_sym": 114
+		"key_sym": 114,
+		"key_code": 15
 	},
 	"s": {
 		"vk_code": 83,
-		"key_sym": 115
+		"key_sym": 115,
+		"key_code": 1
 	},
 	"t": {
 		"vk_code": 84,
-		"key_sym": 116
+		"key_sym": 116,
+		"key_code": 17
 	},
 	"u": {
 		"vk_code": 85,
-		"key_sym": 117
+		"key_sym": 117,
+		"key_code": 32
 	},
 	"v": {
 		"vk_code": 86,
-		"key_sym": 118
+		"key_sym": 118,
+		"key_code": 9
 	},
 	"w": {
 		"vk_code": 87,
-		"key_sym": 119
+		"key_sym": 119,
+		"key_code": 13
 	},
 	"x": {
 		"vk_code": 88,
-		"key_sym": 120
+		"key_sym": 120,
+		"key_code": 7
 	},
 	"y": {
 		"vk_code": 89,
-		"key_sym": 121
+		"key_sym": 121,
+		"key_code": 16
 	},
 	"z": {
 		"vk_code": 90,
-		"key_sym": 122
+		"key_sym": 122,
+		"key_code": 6
 	},
 	"F1": {
 		"vk_code": 112,
@@ -186,35 +222,43 @@
 
 	"shift": {
 		"vk_code": 16,
-		"key_sym": 65505
+		"key_sym": 65505,
+		"key_code": 56
 	},
 	"ctrl": {
 		"vk_code": 17,
-		"key_sym": 65507
+		"key_sym": 65507,
+		"key_code": 59
 	},
 	"alt": {
 		"vk_code": 18,
-		"key_sym": 65513
+		"key_sym": 65513,
+		"key_code": 58
 	},
 	"tab": {
 		"vk_code": 9,
-		"key_sym": 65417
+		"key_sym": 65417,
+		"key_code": 48
 	},
 	"space": {
 		"vk_code": 32,
-		"key_sym": 65408
+		"key_sym": 65408,
+		"key_code": 49
 	},
 	"enter": {
 		"vk_code": 13,
-		"key_sym": 65421
+		"key_sym": 65421,
+		"key_code": 36
 	},
 	"back": {
 		"vk_code": 8,
-		"key_sym": 65288
+		"key_sym": 65288,
+		"key_code": 51
 	},
 	"esc": {
 		"vk_code": 27,
-		"key_sym": 65307
+		"key_sym": 65307,
+		"key_code": 53
 	},
 	"win": {
 		"vk_code": 91,
