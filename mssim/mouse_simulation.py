@@ -5,6 +5,8 @@ if os == "Windows":
     import mouse_simulation_win as mouse
 elif os == "Linux":
     import mouse_simulation_linux as mouse
+elif os == "Darwin":
+    import mouse_simulation_mac as mouse
 
 def Move(x, y):
     mouse.Move(x, y)
