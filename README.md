@@ -4,7 +4,7 @@
 
 This module wrapper keyboard and mouse events and send to system to have same behavior with physical keyboard and mouse.
 
-You can use it in your automation scripts, or as easy-to-use API when you want to send keyboard and mouse events to different desktop environment (Windows & X11) in same way.
+You can use it in your automation scripts, or as easy-to-use API when you want to send keyboard and mouse events to different desktop environment (Windows & X11 & macOS) in same way.
 
 ## Setup
 
@@ -12,6 +12,12 @@ You can use it in your automation scripts, or as easy-to-use API when you want t
 
 ```
 sudo apt-get install python-xlib python-virtkey
+```
+
+`Quartz` is the library which will be used on macOS. You can use following command to install this python module:
+
+```
+pip install pyobjc-framework-Quartz
 ```
 
 ## Use
